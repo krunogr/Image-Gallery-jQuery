@@ -70,7 +70,9 @@ body{
 
 #frame-table img:hover{
     cursor: pointer;
-     opacity: 0.9
+    opacity: 0.9;
+
+
 }
 #right{
     float:right;
