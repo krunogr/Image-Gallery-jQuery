@@ -38,9 +38,7 @@ body{
     position: fixed;
     display: none;
 }
-#overlay:hover{
-    cursor: pointer;
-}
+
 #frame{
     display: none;
     background-color: white;
@@ -63,12 +61,17 @@ body{
     position:absolute;
     margin-top: -270px;
     width: 700px;
-    
+
 }
 #frame-table img{
     width: 50px;
+    opacity: 0.6
 }
 
+#frame-table img:hover{
+    cursor: pointer;
+     opacity: 0.9
+}
 #right{
     float:right;
 }
