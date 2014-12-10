@@ -1,5 +1,5 @@
 Image-Gallery-jQuery
 ====================
+Technologies: jQuery, HTML, CSS
 
-
-![Alt text](https://raw.githubusercontent.com/krunogr/Android-app-for-ordering-drinks-in-restaurants/master/mNarudzbe/res/screenshots/startScreen.JPG "start screen")
+![Alt text](https://raw.githubusercontent.com/krunogr/Image-Gallery-jQuery/master/public_html/photos/snapshot.JPG "Gallery")
